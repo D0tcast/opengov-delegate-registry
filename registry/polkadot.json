@@ -443,6 +443,7 @@
     "image": "https://raw.githubusercontent.com/novasamatech/opengov-delegate-registry/master/images/Dotcast.png",
     "shortDescription": "Dotcast is the leading Spanish speaking media platform dedicated to Polkadot. Through Dotcast's DAO, we aim to actively engage our entire community in OpenGov.",
     "longDescription": "Dotcast is the leading Spanish speaking media platform dedicated to Polkadot. Through Dotcast's DAO, we aim to actively engage our entire community in OpenGov.",
+    "isOrganization": true
   },
   {
     "address": "1436oMyTcpEwbbMNjPsGNj7dmHcMRFe97NLAAkQhN8Wm5ffy",
